@@ -1,6 +1,6 @@
 Package: biom
-Version: 0.3.8
-Date: 2013-04-26
+Version: 0.3.9
+Date: 2013-05-17
 Maintainer: Paul J. McMurdie <mcmurdie@stanford.edu>
 License: GPL-2 | file LICENSE
 Title: An interface package (beta) for the BIOM file format.
@@ -22,11 +22,11 @@ Description: This is an R package for interfacing with the BIOM format.
         well as extensions of common core functions/methods.
 Imports: plyr (>= 1.8), RJSONIO (>= 1.0.3), Matrix (>= 1.0.12)
 Depends: R (>= 3.0.0), methods
-Suggests: testthat (>= 0.7.1), knitr (>= 1.1)
-VignetteBuilder: knitr (>= 1.1)
+Suggests: testthat (>= 0.7.1), knitr (>= 1.2)
+VignetteBuilder: knitr (>= 1.2)
 Collate: 'allClasses.R' 'allPackage.R' 'IO-methods.R' 'BIOM-class.R'
         'validity-methods.R'
-Packaged: 2013-04-26 22:58:36 UTC; joeyMP
+Packaged: 2013-05-21 21:26:55 UTC; joeyMP
 NeedsCompilation: no
 Repository: CRAN
-Date/Publication: 2013-04-29 07:26:03
+Date/Publication: 2013-05-22 07:41:20
