@@ -1,6 +1,6 @@
 Package: biom
-Version: 0.3.10
-Date: 2013-09-15
+Version: 0.3.11
+Date: 2013-12-13
 Maintainer: Paul J. McMurdie <mcmurdie@stanford.edu>
 License: GPL-2
 Title: An interface package (beta) for the BIOM file format.
@@ -26,7 +26,7 @@ Suggests: testthat (>= 0.7.1), knitr (>= 1.3)
 VignetteBuilder: knitr
 Collate: 'allClasses.R' 'allPackage.R' 'IO-methods.R' 'BIOM-class.R'
         'validity-methods.R'
-Packaged: 2013-09-17 15:07:39 UTC; pjm2
+Packaged: 2013-12-13 19:05:47 UTC; pjm2
 NeedsCompilation: no
 Repository: CRAN
-Date/Publication: 2013-09-18 08:37:03
+Date/Publication: 2013-12-13 21:49:42
